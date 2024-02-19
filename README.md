@@ -1,7 +1,6 @@
-# teams-for-linux client custom backgrounds
+# teams-for-linux custom backgrounds
 
-This servers custom images for the [teams-for-linux client](https://github.com/IsmaelMartinez/teams-for-linux/tree/develop) using Docker (or Podman) and Nginx.
-
+This servers custom images for the [teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux/tree/develop) client using Docker (or Podman) and Nginx.
 
 ## Installation
 
