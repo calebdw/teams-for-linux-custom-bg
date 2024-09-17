@@ -1,0 +1,11 @@
+{
+    "videoBackgroundImages": [
+        {
+            "filetype": "jpg",
+            "id": "Custom_bg01",
+            "name": "Image Name",
+            "src": "/evergreen-assets/backgroundimages/image.jpg",
+            "thumb_src": "/evergreen-assets/backgroundimages/image_thumb.jpg"
+        }
+    ]
+}
